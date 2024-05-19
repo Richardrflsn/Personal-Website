@@ -1,7 +1,7 @@
 # My Personal Website
 
 ## About 
-Welcome to the repository for my personal website! This site is a hub where you can learn more about me, my professional background, projects, and interests. Built with basic HTML & CSS as frontend and javascript as backend, it features a clean and modern design aimed at providing visitors with an engaging and informative experience.
+Welcome to the repository for my personal website! This site is a hub where you can learn more about me, my professional background, projects, and interests. Built with basic HTML & CSS as frontend and JavaScript as backend + Bootstrap 5, it features a clean and modern design aimed at providing visitors with an engaging and informative experience.
 
 ## Features
 1. Home
