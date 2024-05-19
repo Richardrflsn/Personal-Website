@@ -1,7 +1,14 @@
-# Personal Website
+# My Personal Website
 
 ## About 
-This personal website is based on basic HTML CSS as the frontend and javscript as the backend 
+Welcome to the repository for my personal website! This site is a hub where you can learn more about me, my professional background, projects, and interests. Built with basic HTML & CSS as frontend and javascript as backend, it features a clean and modern design aimed at providing visitors with an engaging and informative experience.
+
+## Features
+1. Home
+2. About Me
+3. Skills
+4. Services
+5. Portofolio
 
 ## Local Installation
 
