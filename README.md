@@ -31,6 +31,9 @@ Welcome to the repository for my personal website! This site is a hub where you 
 
 4. Open with live server
 
+## Screenshot
+<img width="1280" alt="Screenshot 2024-05-19 at 22 56 33" src="https://github.com/Richardrflsn/Volumetric/assets/105922097/ad95b936-1e89-4d8f-937c-dc0601940a8a">
+
 ## Developed by
 ```
 Richard Rafelson
